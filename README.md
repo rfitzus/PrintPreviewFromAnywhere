@@ -68,3 +68,5 @@ Create one button for each tab; _Open, Closed and All._
 You can now begin adding custom code to the Script Editor.
 
 ![](images/02-PrintPreviewFromAnywhere_10.png)
+
+Review the custom code [here](PrintPreviewFromAnywhere.h).
