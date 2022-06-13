@@ -14,7 +14,7 @@ This customization allows you automatically print preview a document without hav
 
 _Sales Management > Customer Relationship Management > General Operations > **Customer Tracker**_ 
 
-Make sure you have developer mode turned on so you can begin customizing the Customer Tracker Screen. See [Developer Mode](http://ralston-erp1/wiki/index.php/admin/669/developer-mode/) for more details.
+Make sure you have developer mode turned on so you can begin customizing the Customer Tracker Screen. 
 
 #### Step 1 - Create the Buttons
 
